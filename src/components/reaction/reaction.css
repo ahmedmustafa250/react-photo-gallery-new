@@ -1,0 +1,18 @@
+.like-comment {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.reaction-top {
+  margin-top: -10px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+  padding: 6px;
+}
+.like-comment-share {
+  position: relative;
+  bottom: 5px;
+  margin-left: 5px;
+}

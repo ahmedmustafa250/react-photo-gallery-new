@@ -1,0 +1,11 @@
+.write-Comment-section {
+  display: flex;
+}
+.input-field {
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 5px;
+  height: 35px;
+  text-indent: 15px;
+}

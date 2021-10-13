@@ -1,0 +1,18 @@
+.Comment-section {
+  display: flex;
+  margin-bottom: 20px;
+}
+.username-section {
+  border: 2px solid black;
+  border-radius: 20px;
+  margin-left: 20px;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
+.username {
+  margin-top: -2px;
+}
+.user-comment {
+  margin-top: -15px;
+}

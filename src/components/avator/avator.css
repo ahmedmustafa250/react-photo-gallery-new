@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-frame {
+  margin-top: 20px;
+  display: flex;
+}
+.nameDate {
+  position: relative;
+  bottom: 22px;
+  left: 10px;
+}
+.date {
+  margin-top: -10px;
+}

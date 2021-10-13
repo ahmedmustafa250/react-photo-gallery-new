@@ -1,2 +1,2 @@
-# react-photo-gallery-new
+# react-photogallery
 Created with CodeSandbox

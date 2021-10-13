@@ -1,0 +1,15 @@
+.modal-gallery {
+  display: flex;
+  margin: 0 auto;
+}
+.corosel {
+  width: 65%;
+  margin-right: 20px;
+}
+.comment-section {
+  width: 35%;
+  height: auto;
+}
+.hide {
+  display: none;
+}
